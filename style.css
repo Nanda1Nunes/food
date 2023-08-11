@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 214, 153);
+  border: solid 10px rgb(206, 254, 241);}
+  
+  header
+ 
+  
+  {background-image: url(https://img.freepik.com/fotos-gratis/close-up-de-sorvete-monocromatico-plano_23-2148849241.jpg?w=1380&t=st=1691288475~exp=1691289075~hmac=841f2311d28dfd1bbb39908ea632b4db8dfbe4ac7038b6018f9a257dbd8653f4);
+    color: rgb(45, 45, 152);
+    font-variant: ruby ;
+    text-align: center;
+    padding: 20px;
+  font-size: 4ex;
+}
+  
+
+
+h3
+br
+p
+
+.column {
+  float: left;
+  width: 33.33%;
+   .row:after content: "";
+  display: table;
+  clear: both;
+ width: 100%;
+}
